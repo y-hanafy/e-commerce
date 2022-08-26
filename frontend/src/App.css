@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+* {
+  font-family: 'Mulish', sans-serif;
+  box-sizing: border-box;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.container {
+  margin-bottom: 50px;
+}
+
+.navbar-container {
+  margin-bottom: 0px;
+}
+
+.navbar.container{
+  margin-bottom: 20px;
+}
+
+.card-title {
+  display: block;
+  font-weight: 600;
+  font-size: medium;
+  min-height: 20px;
+}
+
+.card-subtitle {  
+  line-height: 22px;    
+}
+
+.card-body {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.card-footer {
+  border: none;
+  margin-top: 0;
+  background-color: white;
+}
+
+.placed-footer {
+  margin: 0;
+  padding: 5px 0 15px 0;
+}
+
+.btn {
+  max-width: 120px;
+  margin: 12px 2px;
+}
+
+.item-group {
+  margin-bottom: 0;
+}
+
+.item-group:last-child {
+  border: transparent;
+}
+
+h2 {
+  text-align: center;
+}
+
+.qty-selector {
+  display: flex;  
+  border-radius: 10px;
+  align-items: center;
+  margin-right: 10px; 
+  margin-bottom: 10px;
+
+}
+
+.qty-input {
+  max-width: 50px;
+  block-size: fit-content;
+  border: none;
+  padding: 5px;
+  border-top: 1px solid lightgray;  
+  border-bottom: 1px solid lightgray;
+  text-align: center;
+}
+
+.qty-sub {
+  color: white;
+  background-color: #0d6efd;
+  border: 1px solid #0d6efd;
+  min-width: 30px;
+  padding: 5px;
+  font-size: x-large;
+  font-weight: 600;
+  border-radius: 5px 0 0 5px;
+}
+
+.qty-add {
+  color: white;   
+  background-color: #0d6efd; 
+  border: 1px solid #0d6efd;
+  font-size: large;
+  font-weight: 600;
+  padding: 5px;
+  min-width: 30px;
+  border-radius: 0 5px 5px 0;
+}
+
+.qty-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;  
+  padding-top: 0;
+  margin-top: 15px;
+}
+
+.delete {
+  margin-left: 10px;
+  font-size: small;
+  cursor: pointer;
+  align-items: center;
+  text-decoration: none;
+}
+
+.qty-input:focus, input:focus{
+  outline: none;
+}

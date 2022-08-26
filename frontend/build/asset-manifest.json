@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.328aae46.css",
+    "main.js": "/static/js/main.c6a38668.js",
+    "static/media/power.jpg": "/static/media/power.592e75170df1307649e8.jpg",
+    "static/media/processors.jpg": "/static/media/processors.8ac32fb0f67fb755a97e.jpg",
+    "static/media/coolers.jpg": "/static/media/coolers.482ef00240c789fe4a56.jpg",
+    "static/media/motherboards.jpg": "/static/media/motherboards.7591a8b43fdf7d46c8b6.jpg",
+    "static/media/graphics.jpg": "/static/media/graphics.63adf571c741feb6eaa5.jpg",
+    "static/media/cases.jpg": "/static/media/cases.7f9e25d63d7e789ba860.jpg",
+    "static/media/gq.jpg": "/static/media/gq.86c09a05cbea643cc0ef.jpg",
+    "static/media/memory.jpg": "/static/media/memory.702685594bfb36aa6209.jpg",
+    "static/media/storage.jpg": "/static/media/storage.2babf3579d4794ee9c55.jpg",
+    "static/media/asrock.jpg": "/static/media/asrock.3afed4f2affa835f6cb7.jpg",
+    "index.html": "/index.html",
+    "main.328aae46.css.map": "/static/css/main.328aae46.css.map",
+    "main.c6a38668.js.map": "/static/js/main.c6a38668.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.328aae46.css",
+    "static/js/main.c6a38668.js"
+  ]
+}
